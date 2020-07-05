@@ -1,6 +1,6 @@
 {
   "ClientId": 728412370560352289,
-  "Token": "NzI4NDEyMzcwNTYwMzUyMjg5.Xv6BhA.HUX7GqGBBu2yUMz_EEz_KLzY9aU",
+  "Token": "",
   "OwnerIds": [
     257679192215388160
   ],
